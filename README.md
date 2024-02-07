@@ -1,2 +1,2 @@
-# deepLearning
-IIIrd year B.tech AI&amp;DS
+# Deep-Learning
+III-II B.tech AIDS
